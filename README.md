@@ -191,14 +191,5 @@ use c: c:\Users\[YourUsername]\Documents\traxanal
 
 ## Date
 Setup completed: January 7, 2026
-
-## System Information
-- **OS:** Windows 11
-- **User:** [YourUsername]
-- **Application:** TRAX (FoxPro 2.5)
-- **Emulator:** vDos
-- **Install Location:** C:\Users\[YourUsername]\Documents\traxanal
-
 ---
 
-**Status:** ✅ Working
